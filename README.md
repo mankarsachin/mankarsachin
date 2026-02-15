@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Gen%20AI%20&%20Copilot%20Developer&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65d1c53a-8ecd-4513-8a9d-51c413b605c8" />
 </p>
+
 
 # Hi, I'm Sachin Mankar 👋  
 
